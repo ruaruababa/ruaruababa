@@ -1,6 +1,6 @@
 # Here i'm.
 
-📚 I’m a third year Software Engineer in Water Resource University
+📚 I’m a third year Software Engineer in Water Resources University
 
 📈 I want become Full-stack Dev, more and more...
 
