@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Giang Nguyen</h1>
 <h3 align="center">A passionate frontend developer from VietNam</h3>
 
-- 🔭 I’m still looking for remote **Front-end job** - 🌱 I’m currently learning
-**NestJs, Cloud...** - 📄 Know about my experiences [1.5 years exp
-Front-end](1.5 years exp Front-end)
+<p class="">- 🔭 I’m still looking for remote <strong>Front-end job</strong></p>
+<p class="">- 🌱 I’m currently learning <strong>NestJs, Cloud...</strong</p>
+<p class="">- 📄 Know about my experiences <strong>1.5 years exp Front-end</strong></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"></p>
