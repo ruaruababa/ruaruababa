@@ -11,6 +11,7 @@
 <p align="left">
 <ul>
     <li>Front-end</li>
+                <br/>
     <div class="">
         <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
             <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40" />
@@ -29,6 +30,7 @@
         </a>
     </div>
     <li>Back-end</li>
+            <br/>
     <div class="container">
         <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg"
@@ -44,6 +46,7 @@
         </a>
     </div>
     <li>Languages</li>
+        <br/>
     <div class="">
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
@@ -55,6 +58,7 @@
         </a>
     </div>
     <li>Design</li>
+        <br/>
     <div class="">
         <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
             <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
@@ -66,6 +70,7 @@
                 alt="photoshop" width="40" height="40" /> </a>
     </div>
     <li>Database</li>
+    <br/>
     <div class="">
         <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
