@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Giang Nguyen</h1>
+<h1 align="center">Hi 👋, I'm Julian Ng</h1>
 <h3 align="center">A passionate frontend developer from VietNam</h3>
 
 <p class="">- 🔭 I’m still looking for remote <strong>Front-end job</strong></p>
