@@ -3,7 +3,7 @@
 
 <p class="">- 🔭 I’m still looking for remote <strong>Front-end job</strong></p>
 <p class="">- 🌱 I’m currently learning <strong>NestJs, Cloud...</strong></p>
-<p class="">- 📄 Know about my experiences <strong>1.5 years exp Front-end</strong></p>
+<p class="">- 📄 Know about my experiences <strong>2 years exp Front-end</strong></p>
 
 <h3 align="left">Connect with me:</h3>
 
