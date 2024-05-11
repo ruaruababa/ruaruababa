@@ -93,10 +93,9 @@
     height="40"
   />
   &emsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-originalsvg"
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"
     width="40"
     height="40" />
-
 </div>
 
 <h3>Database</h3>
