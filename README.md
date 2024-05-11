@@ -51,8 +51,7 @@
     &emsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg"  width="40"
     height="40"/>
-          
-          
+
 </div>
 
 <h3>Back-end</h3>
@@ -78,18 +77,11 @@
   />
 </div>
 
-<h3>Design</h3>
+<h3>Design and Tools</h3>
 <div style="display: flex;">
   <img
     src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
     alt="figma"
-    width="40"
-    height="40"
-  />
-  &emsp;
-  <img
-    src="https://www.chartjs.org/media/logo-title.svg"
-    alt="chartjs"
     width="40"
     height="40"
   />
@@ -100,6 +92,11 @@
     width="40"
     height="40"
   />
+  &emsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-originalsvg"
+    width="40"
+    height="40" />
+
 </div>
 
 <h3>Database</h3>
@@ -124,4 +121,24 @@
     width="40"
     height="40"
   />
+</div>
+
+<h3>OS, Sever, Cloud</h3>
+<div style="display: flex;">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original-wordmark.svg"
+    width="40"
+    height="40"
+  />
+&emsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg"
+    width="40"
+    height="40"
+  />
+&emsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"
+    width="40"
+    height="40"
+  />
+
 </div>
