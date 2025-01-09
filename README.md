@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from VietNam</h3>
 
 <p class="">- 🔭 I’m working on <strong>NMS IT Solutions</strong></p>
-<p class="">- 🌱 I’m currently collaborating at <strong>VTV</strong></p>
+<p class="">- 🌱 I’m former collaborating at <strong>VTV</strong></p>
 <p class="">
   - 📄 Know about my experiences <strong>more than 2 years exp</strong>
 </p>
