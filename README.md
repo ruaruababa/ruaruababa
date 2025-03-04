@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Giang Nguyen</h1>
-<h3 align="center">A passionate frontend developer from VietNam</h3>
+<h3 align="center">A fullstack web developer from VietNam</h3>
 
 <p class="">- 🔭 I’m working remote on <strong>NMS IT Solutions</strong></p>
 <p class="">- 🌱 I’m former collaborating at <strong>VTV</strong></p>
