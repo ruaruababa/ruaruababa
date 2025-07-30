@@ -5,7 +5,7 @@
 <p class="">- I’m current fe dev at <strong>NMS IT Solutions</strong></p>
 <p class="">- I’m former collaborating at <strong>VTV</strong></p>
 <p class="">
-  - 📄 Know about my experiences <strong>more than 3 years exp</strong>
+  - Know about my experiences <strong>more than 4 years exp</strong>
 </p>
 
 <h3 align="left">Connect with me:</h3>
